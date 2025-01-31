@@ -35,8 +35,8 @@ UserCRUD is a simple web application that allows users to create, read, update, 
 4. Edit or delete user records as needed.
 
 ## Screenshots
-![Create User Page](path/to/screenshot1.png)
-![Read Users Page](path/to/screenshot2.png)
+![Create User Page](Create_User_page.png)
+![Read Users Page](User_List_page.png)
 
 ## License
 This project is licensed under the MIT License.
